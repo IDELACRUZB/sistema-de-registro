@@ -1,2 +1,5 @@
 <h1>Sistema de Registro</h1>
-- Estado dle Proyecto: En construcción.
+- Estado del Proyecto: En construcción.
+
+Para ejecutar el programa, debes poner:
+```rpm install react```
